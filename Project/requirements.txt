@@ -21,7 +21,7 @@ cachetools==5.2.1
 caer==2.0.8
 clyent==1.2.1
 conda==4.3.16
-conda-build==3.22.0
+conda-build==2.1.5
 conda-repo-cli==1.0.20
 conda-verify==3.4.2
 constantly==15.1.0
