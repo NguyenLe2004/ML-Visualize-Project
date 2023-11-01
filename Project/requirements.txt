@@ -137,9 +137,7 @@ stopit==1.1.2
 storage==0.0.4.3
 streamlit==1.24.1
 streamlit-folium==0.13.
-tb-nightly==2.15.0a20230828
 TBB==2021.10.0
-tensorboard==2.11.2
 tensorboard-data-server==0.7.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.0
