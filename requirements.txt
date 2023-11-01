@@ -1,4 +1,3 @@
-pip==23.3.1
 protobuf>=4.21.6
 absl-py==1.3.0
 altair==5.0.1
@@ -8,10 +7,6 @@ apyori==1.1.2
 asgiref==3.6.0
 astunparse==1.6.3
 atomicwrites==1.4.0
-azure-cognitiveservices-vision-computervision==0.9.0
-azure-common==1.1.28
-azure-core==1.29.4
-azure-storage-blob==12.18.1
 backports.weakref==1.0.post1
 bkcharts==0.2
 blinker==1.6.2
@@ -35,7 +30,6 @@ Django==3.0.1
 ecos==2.0.12
 et-xmlfile==1.1.0
 exceptiongroup==1.1.2
-fancyimpute==0.7.0
 firebase-admin==6.2.
 flatbuffers==23.5.26
 folium==0.14.0
@@ -83,10 +77,6 @@ mypy==0.991
 mypy-extensions==0.4.3
 numpy==1.23.5
 oauthlib==3.2.2
-opencv-contrib-python==4.6.0.66
-opencv-python==4.6.0.66
-opencv-python-headless==4.6.0.66
-openpyxl==3.0.10
 opt-einsum==3.3.0
 osqp==0.6.3
 outcome==1.2.0
@@ -126,7 +116,6 @@ scikit-learn==1.3.2
 scikit-learn-intelex==2023.2.1
 scipy==1.9.1
 scs==3.2.3
-selenium==4.10.0
 smmap==5.0.0
 SpeechRecognition==3.9.0
 sqlparse==0.4.3
@@ -135,20 +124,11 @@ storage==0.0.4.3
 streamlit==1.24.1
 streamlit-folium==0.13.
 TBB==2021.10.0
-tensorboard-data-server==0.7.1
-tensorboard-plugin-wit==1.8.1
-tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.29.0
 termcolor==2.2.0
-tf-estimator-nightly==2.14.0.dev2023080308
-tf-nightly==2.15.0.dev20230828
 tf-utils==1.0.4
 thefuzz==0.19.0
 threadpoolctl==3.2.0
-torch==2.0.1
-torchaudio==2.0.2
-torchmetrics==1.1.0
-torchvision==0.15.2
 TPOT==0.11.7
 trio==0.22.1
 trio-websocket==0.10.3
