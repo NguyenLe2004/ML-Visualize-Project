@@ -1,4 +1,4 @@
---upgrade pip
+pip-upgrade
 absl-py==1.3.
 altair==5.0.1
 anaconda-client==1.2.2
