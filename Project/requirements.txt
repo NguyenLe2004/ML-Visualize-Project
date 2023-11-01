@@ -21,7 +21,7 @@ CacheControl==0.13.1
 cachetools==5.2.1
 caer==2.0.8
 clyent==1.2.1
-conda==4.3.16
+conda==4.3.13.tar.gz
 conda-build==2.1.5
 constantly==15.1.0
 cssselect==1.1.0
