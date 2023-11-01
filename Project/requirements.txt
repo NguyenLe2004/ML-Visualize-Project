@@ -20,7 +20,7 @@ CacheControl==0.13.1
 cachetools==5.2.1
 caer==2.0.8
 clyent==1.2.1
-conda==22.9.0
+conda==4.3.16
 conda-build==3.22.0
 conda-repo-cli==1.0.20
 conda-verify==3.4.2
