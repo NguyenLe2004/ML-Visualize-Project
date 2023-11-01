@@ -1,0 +1,55 @@
+header{
+    background-image:  linear-gradient(to top right, rgb(0,133,255), rgb(146,20,254));
+    height: 30vh;
+}
+.begin{
+    position: relative;
+    top: 90px;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.col{
+    position: relative;
+    top: 10vh; 
+    width: 50vh;
+    height: auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 73px;
+}
+.img_zoom{
+    border: 4px solid rgb(132, 133, 135);
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 15px rgb(190, 191, 192);
+}
+.col a img{
+    width: 50vh;
+    height: 50vh;
+    transition: transform 0.5s ease-in-out;
+} 
+.col:hover a img,
+.col:active a img{
+    transform: scale(1.1);
+    filter: blur(5px) brightness(90%);
+    cursor: pointer;
+}
+.model{
+    font-size: 30px;
+    display: inline-block;
+    position: relative;
+    bottom: 200px;
+    font-weight: bold;
+    font-family: "Gill Sans", sans-serif;
+    transition: all 0.6s ease-in-out;
+    opacity: 0;
+}
+.col:hover .model,
+.col:active .model{
+    transform: translateY(-70px);
+    opacity: 1;
+}

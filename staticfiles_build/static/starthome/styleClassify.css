@@ -1,0 +1,63 @@
+header{
+  position: absolute;
+  height: 150px;
+  width: 100%;
+  background-image:  linear-gradient(to top right, rgb(0,133,255), rgb(146,20,254));
+}
+body{
+  z-index: -1;
+  position: absolute;
+  width: 185vh;
+  height: 100vh;
+}
+header h1{
+  margin-top:37px;
+  text-align: center;
+  color: white;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#axis{
+  position: absolute;
+  top: 30vh;
+  left: 5vh;
+  box-shadow: 10px -10px 20px 0px rgb(221, 227, 244);
+}
+.red-dot {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+}
+#addClass{
+  display: block;
+  position: absolute;
+  left: 50px;
+  top: 90vh;
+}
+#classifyBoundary{
+  position: absolute;
+  top: 30vh;
+  left: 5vh;
+}
+/* .addbtn{
+  color: white;
+  background-color: #0c6efd;
+  padding: 10px;
+  border-radius: 10px;
+} */
+#formContainer{
+  position: relative;
+  text-align: left;
+  width: 120%;
+  top: 330px;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px rgb(208, 218, 244) ;
+}
+#classButton{
+  transition: filter 0.3s ease-in-out;
+}
+#classButton:hover{
+  filter: brightness(0.8);
+}
