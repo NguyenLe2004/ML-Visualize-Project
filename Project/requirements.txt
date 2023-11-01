@@ -12,7 +12,7 @@ azure-common==1.1.28
 azure-core==1.29.4
 azure-storage-blob==12.18.1
 backports.weakref==1.0.post1
-bkcharts==0.
+bkcharts==0.2
 blinker==1.6.
 branca==0.6.0
 brotlipy==0.7.0
