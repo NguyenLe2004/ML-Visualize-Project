@@ -1,0 +1,1156 @@
+4.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Users
+8.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ApplicationServices
+8.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Cocoa
+8.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//DictionaryServices
+8.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//LaunchServices
+8.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SearchKit
+8.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//_yaml
+8.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//apiclient
+8.0K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xontrib
+ 12K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//aiosignal
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AdServices
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AdSupport
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AppTrackingTransparency
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AppleScriptKit
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AppleScriptObjC
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//BusinessChat
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CalendarStore
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Collaboration
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//DataDetection
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//DeviceCheck
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ExceptionHandling
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ExecutionPolicy
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//FileProviderUI
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//FinderSync
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//InstallerPlugins
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//KernelManagement
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//LinkPresentation
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//LocalAuthenticationEmbeddedUI
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PencilKit
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PreferencePanes
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyDispatcher-2.0.5-py3.9.egg-info
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ScreenTime
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SecurityFoundation
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ServiceManagement
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Social
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SoundAnalysis
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ThreadNetwork
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//UserNotificationsUI
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//atomicwrites
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//backports.weakref-1.0.post1-py2.7.egg-info
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//clyent-1.2.2-py3.9.egg-info
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cssselect-1.1.0-py3.9.egg-info
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//curl
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//et_xmlfile
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//et_xmlfile-1.1.0-py3.9.egg-info
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jinja2_time
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//locket
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mkl_service-2.4.0-py3.9.egg-info
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//munkres-1.1.4-py3.6.egg-info
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ply-3.11-py3.9.egg-info
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tlz
+ 16K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//webencodings-0.5.1-py3.9.egg-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Accounts
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//InstantMessage
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//LatentSemanticMapping
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MediaAccessibility
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//NetFS
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//OSAKit
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//QuickLookThumbnailing
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//VideoSubscriberAccount
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//async_timeout
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//constantly-15.1.0-py3.8.egg-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//flatbuffers-23.5.26.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//grpcio_status-1.57.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//inflection-0.5.1-py3.9.egg-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//iniconfig
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//llvmlite-0.38.0-py3.9.egg-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mdurl-0.1.2.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mypy_extensions-0.4.3-py3.9.egg-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//navigator_updater-0.3.0-py3.9.egg-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//patsy-0.5.2-py3.9.egg-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pylsp_black
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AVFoundation-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AVKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AVRouting-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Accessibility-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AdServices-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AdSupport-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AppTrackingTransparency-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ApplicationServices-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AudioVideoBridging-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AuthenticationServices-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AutomaticAssessmentConfiguration-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_BackgroundAssets-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_BusinessChat-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CallKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ClassKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ColorSync-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Contacts-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ContactsUI-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreAudio-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreAudioKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreHaptics-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreMIDI-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreML-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreMedia-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreMediaIO-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreMotion-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreServices-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreSpotlight-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreWLAN-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_DVDPlayback-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_DataDetection-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_DeviceCheck-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_DiscRecording-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_DiscRecordingUI-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_DiskArbitration-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ExecutionPolicy-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ExtensionKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ExternalAccessory-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_FileProvider-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_FileProviderUI-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_GameCenter-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_GameController-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_GameKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_GameplayKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_HealthKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_IMServicePlugIn-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_IOSurface-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Intents-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_IntentsUI-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_KernelManagement-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_LinkPresentation-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_LocalAuthenticationEmbeddedUI-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MLCompute-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MailKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MediaAccessibility-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MediaLibrary-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MediaPlayer-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MediaToolbox-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Metal-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MetalFX-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MetalKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MetalPerformanceShaders-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MetalPerformanceShadersGraph-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MetricKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ModelIO-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_NaturalLanguage-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_NetFS-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Network-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_NetworkExtension-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_NotificationCenter-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_OSAKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_OSLog-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_PassKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_PencilKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Photos-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_PhotosUI-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_PushKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_QuickLookThumbnailing-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ReplayKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SafariServices-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SafetyKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SceneKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ScreenCaptureKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ScreenTime-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Security-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SecurityFoundation-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SecurityInterface-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SharedWithYou-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SharedWithYouCore-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ShazamKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SoundAnalysis-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Speech-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SpriteKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_StoreKit-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SystemExtensions-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ThreadNetwork-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_UniformTypeIdentifiers-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_UserNotifications-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_UserNotificationsUI-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_VideoSubscriberAccount-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_VideoToolbox-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Virtualization-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Vision-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_iTunesLibrary-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_libdispatch-9.0.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pytest
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//queuelib-1.5.0-py3.9.egg-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//storage-0.0.4.3.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorboard_data_server-0.7.1.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//uuid-1.30.dist-info
+ 20K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xgboost-2.0.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Automator
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MediaLibrary
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyAudio-0.2.12.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyQt5_sip-12.11.0-py3.9-macosx-10.9-x86_64.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//UniformTypeIdentifiers
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//_distutils_hack
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//anaconda_client-1.11.0-py3.9.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//appdirs-1.4.4-py3.9.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//applaunchservices
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//appscript-1.1.2.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//apyori-1.1.2.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//backcall-0.2.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bkcharts-0.2-py3.9.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//blinker-1.6.2.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//branca-0.6.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//brotlipy-0.7.0-py3.9.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cachecontrol-0.13.1.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//click-8.1.7.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_repo_cli-1.0.20-py3.9.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//datashape-0.5.4-py3.9.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ecos
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//entrypoints-0.4.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//exceptiongroup-1.1.2.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//gast-0.4.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//httplib2-0.22.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//inflection
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//knnimpute-0.1.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//missingno-0.5.2.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mkl_fft-1.3.1-py3.9.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//multipledispatch-0.6.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//protobuf-4.23.4.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ptyprocess-0.7.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Accounts-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AddressBook-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AppleScriptKit-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_AppleScriptObjC-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Automator-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CFNetwork-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CalendarStore-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CloudKit-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Cocoa-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Collaboration-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreBluetooth-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreData-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreLocation-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CoreText-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_CryptoTokenKit-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_DictionaryServices-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_EventKit-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ExceptionHandling-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_FSEvents-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_FinderSync-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ImageCaptureCore-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_InputMethodKit-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_InstallerPlugins-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_InstantMessage-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_LatentSemanticMapping-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_LaunchServices-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_LocalAuthentication-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MapKit-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_MultipeerConnectivity-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_OpenDirectory-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_PreferencePanes-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ScreenSaver-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ScriptingBridge-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SearchKit-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_ServiceManagement-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Social-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SyncServices-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_SystemConfiguration-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_WebKit-9.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//python_lsp_jsonrpc-1.0.0-py3.10.egg-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//scs-3.2.3.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//streamlit_folium-0.13.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//termcolor-2.2.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//testpath-0.6.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tf_utils-1.0.4.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//three_merge
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//update_checker-0.18.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//uritemplate-4.1.1.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//validators-0.20.0.dist-info
+ 24K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//zict-2.1.0-py3.9.egg-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//DiscRecordingUI
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//EventKit
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//IOSurface
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MailKit
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MarkupSafe-2.0.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//NaturalLanguage
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Protego-0.1.16.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Rtree-0.9.7.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//applaunchservices-0.3.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//appnope
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//appnope-0.1.2.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//argon2_cffi-21.3.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//atomicwrites-1.4.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//azure_common-1.1.28.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//backports.functools_lru_cache-1.6.4.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//binaryornot
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cachetools-5.2.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//certifi-2022.9.24.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_build-3.22.0-py3.9.egg-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cycler-0.11.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//gitdb-4.0.10.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//glob2-0.7.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//h11-0.14.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//hyperlink-21.0.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//iTunesLibrary
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//imagesize-1.4.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//importlib_metadata-4.11.3.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//iniconfig-1.1.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ipython_genutils-0.2.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//isodate-0.6.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//itemloaders-1.0.4.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//itsdangerous-2.0.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jellyfish-0.9.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter-1.0.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab_pygments-0.1.2.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//libarchive_c-2.9.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//locket-1.0.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lz4-3.1.3.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//matplotlib_inline-0.1.6.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mkl_random-1.2.2.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mock-4.0.3.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//multidict-6.0.4.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nbformat-5.9.2.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nest_asyncio-1.5.5.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numpydoc-1.4.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pexpect-4.8.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pickleshare-0.7.5.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyasn1_modules-0.2.8-py3.6.egg-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pycparser-2.21.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pydeck-0.8.1b0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyls_spyder
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_framework_Quartz-9.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyodbc-4.0.34.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyparsing-3.0.9.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//requests_file-1.5.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rsa-4.9.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//six-1.16.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//termcolor
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//terminado-0.13.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//threadpoolctl-3.2.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tinycss-0.4.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tomlkit-0.11.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//trio_websocket-0.10.3.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//w3lib-1.21.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wheel-0.37.1-py3.9.egg-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//widgetsnbextension-3.5.2.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wsproto-1.2.0.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wurlitzer-3.0.2.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xlrd-2.0.1.dist-info
+ 28K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//zipp-3.8.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CallKit
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//DiskArbitration
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//HeapDict-1.0.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Jinja2-2.11.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//LocalAuthentication
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//OpenDirectory
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyJWT-2.8.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//XlsxWriter-3.0.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//aiohttp-3.8.6.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//aiosignal-1.3.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//alabaster-0.7.12.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//altair-5.0.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//argon2_cffi_bindings-21.2.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//asgiref-3.6.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//astunparse-1.6.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//async_timeout-4.0.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//beautifulsoup4-4.11.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//blackd
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cffi-1.15.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cloudpickle-2.0.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda-22.9.0-py3.9.egg-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_content_trust-0.1.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_pack-0.6.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_token-0.4.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cytoolz-0.11.0-py3.9.egg-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//daal4py-2021.6.0-py3.9.egg-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//decorator-5.1.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//fastjsonschema-2.16.2.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//filelock-3.6.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//folium-0.14.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_auth_httplib2-0.1.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_pasta-0.2.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//grpc_status
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//imagesize
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jdcal-1.4.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jinja2_time-0.2.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jmespath-0.10.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//json5-0.9.6.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jsonschema-4.16.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter_console-6.4.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab_pygments
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab_server-2.10.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//kiwisolver-1.4.2.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nose-1.3.7.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//param-1.12.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//partd-1.2.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pathlib-1.0.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//platformdirs-2.5.2.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pluggy-1.0.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//proto_plus-1.22.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//py-1.11.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pycurl-7.45.1-py3.9-macosx-10.9-x86_64.egg-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pydocstyle-6.1.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyerfa-2.0.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyls_spyder-0.4.0-py3.10.egg-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//python_lsp_black-1.2.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//python_slugify-5.0.2.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//python_snappy-0.6.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyviz_comms-2.0.2.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//qdldl-0.1.7.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//qstylizer-0.1.10.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//requests_oauthlib-1.3.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ruamel_yaml_conda-0.15.100.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//scikit_learn_intelex-2021.20221004.121333-py3.9.egg-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//seaborn-0.11.2.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//service_identity-18.1.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//smmap-5.0.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sortedcollections-2.1.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//soupsieve-2.3.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sphinxcontrib_jsmath-1.0.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sqlparse-0.4.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorboard_plugin_wit-1.8.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//text_unidecode-1.3.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//three_merge-0.1.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tldextract-3.2.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//toml-0.10.2.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tomli-2.0.1.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//typing_extensions-4.8.0.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//whatthepatch-1.0.2.dist-info
+ 32K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wrapt-1.14.1.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Bottleneck-1.3.5.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreHaptics
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Flask-1.1.2.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyWavelets-1.3.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//QtAwesome-1.0.3.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Send2Trash-1.8.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Werkzeug-2.0.3.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//absl_py-1.3.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//anaconda_navigator-2.3.1-py3.9.egg-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//binaryornot-0.4.4.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//caer-2.0.8.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_package_handling-1.9.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//fancyimpute-0.7.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//firebase_admin-6.2.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//flake8-4.0.1.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//frozenlist-1.4.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//fsspec-2022.7.1.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_auth_oauthlib-1.0.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_cloud_core-2.3.3.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_crc32c-1.5.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_resumable_media-2.5.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//h5py-3.7.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//idna-3.3.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//incremental-21.3.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ipykernel-6.15.2.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ipywidgets-7.6.5.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter_core-4.11.1.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lazy_object_proxy-1.6.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lightgbm-4.1.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lightning_utilities-0.9.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lxml-4.9.1.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mccabe-0.7.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mistune-0.8.4.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mpmath-1.2.1-py3.9.egg-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//msgpack-1.0.3.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nbclassic-0.3.5.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numexpr-2.8.3.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//oauthlib-3.2.2.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//olefile-0.46.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//opt_einsum-3.3.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pandocfilters-1.5.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//parsel-1.6.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//poyo-0.5.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyasn1-0.4.8.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyct-0.4.8.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyflakes-2.4.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sniffio
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//snowballstemmer-2.2.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sortedcontainers-2.4.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//storage
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torchaudio-2.0.2.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//traitlets-5.1.1.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ujson-5.4.0.dist-info
+ 36K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//yarg-0.1.9.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ColorSync
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//GitPython-3.1.32.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Levenshtein-0.20.9.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Markdown-3.3.4.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PySocks-1.7.1.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Pympler-1.0.1.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//TPOT-0.11.7.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//anyio-3.5.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//arrow-1.2.2.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//attrs-21.4.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//backports.tempfile-1.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bcrypt-3.2.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//charset_normalizer-2.0.4.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//colorama-0.4.5.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_verify-3.4.2.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//diff_match_patch-20200713.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//dill-0.3.4.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//docopt-0.6.2.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_api_core-2.11.1.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_cloud_storage-2.10.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//greenlet-1.1.1.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//imageio-2.19.3.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//itemadapter-0.3.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//libclang-15.0.6.1.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//markdown_it_py-3.0.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//matplotlib_inline
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nbclient-0.5.13.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//osqp-0.6.3.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//outcome
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//outcome-1.2.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//parso-0.8.3.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pkginfo-1.8.2.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyOpenSSL-22.0.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//python_Levenshtein-0.20.9.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//python_dateutil-2.8.2.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pytz_deprecation_shim-0.1.0.post0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//qtconsole-5.3.2.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//requests-2.28.1.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//s3transfer-0.6.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//slugify
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//spyder_kernels-2.3.3.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//stopit
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//stopit-1.1.2.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorflow_estimator-2.11.0.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tf_estimator_nightly-2.14.0.dev2023080308.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//toolz-0.11.2.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tzlocal-4.3.1.dist-info
+ 40K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wcwidth-0.2.5.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MetalPerformanceShadersGraph
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyNaCl-1.5.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyYAML-6.0-py3.9-macosx-10.9-x86_64.egg-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//_plotly_future_
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//azure_cognitiveservices_vision_computervision-0.9.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//colorcet-3.0.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cookiecutter-1.7.3.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//deap-1.3.3.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//isort-5.9.3.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//joblib-1.3.2.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter_client-7.3.4.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab_widgets-1.0.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lazypredict-0.2.12.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//msrest-0.7.1.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//openpyxl-3.0.10-py3.9.egg-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pipreqs-0.4.13.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//python_lsp_server-1.5.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rapidfuzz-2.13.7.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rich-13.4.2.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rope-0.22.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sniffio-1.2.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sphinxcontrib_applehelp-1.0.2.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sphinxcontrib_devhelp-1.0.2.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sphinxcontrib_htmlhelp-2.0.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sphinxcontrib_qthelp-1.0.3.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tblib
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tenacity-8.0.1.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorflow_io_gcs_filesystem-0.29.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//textdistance-4.2.1.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//thefuzz-0.19.0.dist-info
+ 44K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tornado-6.1.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Automat-20.2.0.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MLCompute
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MediaPlayer
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyHamcrest-2.0.2.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//backports
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//boto3-1.24.28.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_auth-2.16.0.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter_server-1.18.1.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pep8-1.7.1-py3.9.egg-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc-9.0.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//smart_open-5.2.1.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sphinxcontrib_serializinghtml-1.1.5.dist-info
+ 48K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tables-3.6.1.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AVRouting
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AudioVideoBridging
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ContactsUI
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreAudioKit
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//DVDPlayback
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ExtensionKit
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ExternalAccessory
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//FSEvents
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//OSLog
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PushKit
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SafetyKit
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ScreenSaver
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ScriptingBridge
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SharedWithYouCore
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SystemExtensions
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//attrs
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//autopep8-1.6.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//constantly
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_cloud_firestore-2.11.1.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//googleapis_common_protos-1.60.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//hvplot-0.8.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//imagecodecs-2021.8.26.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//intake-0.6.5.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//intervaltree-3.1.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//itemadapter
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//keyring-23.4.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pathspec-0.9.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//psutil-5.9.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyobjc_core-9.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyrsistent-0.18.0.dist-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pytest-7.1.2-py3.9.egg-info
+ 52K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//yarl-1.9.2.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AutomaticAssessmentConfiguration
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//BackgroundAssets
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//InputMethodKit
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//JavaScriptCore
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MediaToolbox
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MetalFX
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//QDarkStyle-3.0.2.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SharedWithYou
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Speech
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bitarray-2.5.1.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bleach-4.1.0.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cvxopt-1.3.1.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//defusedxml-0.7.1.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//packaging-21.3.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//paramiko-3.3.1.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//poyo
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//prompt_toolkit-3.0.20.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyttsx3-2.90.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sortedcollections
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tabulate-0.8.10.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tblib-1.7.0.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tifffile-2021.7.2.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//websocket_client-0.58.0.dist-info
+ 56K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xarray-0.20.1.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Accessibility
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ClassKit
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MultipeerConnectivity
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//NotificationCenter
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//QtPy-2.2.0.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//azure_storage_blob-12.18.1.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bcrypt
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//chardet-4.0.0.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_token
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//datashader-0.14.1.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//distributed-2022.7.0.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ecos-2.0.12.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//future-0.18.2.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//glob2
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//grpcio-1.57.0.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//knnimpute
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//markupsafe
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mdurl
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numbergen
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pylsp_jsonrpc
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyximport
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torchvision-0.15.2.dist-info
+ 60K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//trio-0.22.1.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreSpotlight
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MetalKit
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Scrapy-2.6.2.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SecurityInterface
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//UserNotifications
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//anaconda_project-0.11.1.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//azure_core-1.29.4.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cryptography-37.0.1.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//dask-2022.7.0.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//missingno
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nbconvert-6.4.4.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//prometheus_client-0.14.1.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pycodestyle-2.8.0.dist-info
+ 64K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//setuptools-68.0.0.dist-info
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PhotosUI
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ReplayKit
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SQLAlchemy-1.4.39.dist-info
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SafariServices
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//backcall
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//gmpy2-2.1.2.dist-info
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//parsel
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyzmq-23.2.0.dist-info
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tests
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//uritemplate
+ 68K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xlwings-0.27.15.dist-info
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AVKit
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CFOpenDirectory
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CryptoTokenKit
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SpeechRecognition-3.9.0.dist-info
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Virtualization
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//alabaster
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//astroid-2.11.7.dist-info
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cachetools
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//colorama
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lazypredict
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//regex-2022.7.9.dist-info
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//selenium-4.10.0.dist-info
+ 72K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tomli
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreLocation
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreWLAN
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Cython-0.29.32.dist-info
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PySimpleGUI-4.60.5.dist-info
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//doc
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//filelock
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//thefuzz
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//urllib3-1.26.11.dist-info
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//webencodings
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//whatthepatch
+ 76K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//zope.interface-5.4.0.dist-info
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreBluetooth
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreML
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//IMServicePlugIn
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Pygments-2.15.1.dist-info
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//StoreKit
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Unidecode-1.2.0.dist-info
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//_argon2_cffi_bindings
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//astunparse
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//debugpy-1.5.1.dist-info
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//exceptiongroup
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ipython-7.31.1.dist-info
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//itemloaders
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//multipledispatch
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ptyprocess
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pytz_deprecation_shim
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//service_identity
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//watchdog-2.1.6.dist-info
+ 80K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//yapf-0.31.0.dist-info
+ 84K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//GameplayKit
+ 84K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Pillow-9.2.0-py3.9.egg-info
+ 84K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SyncServices
+ 84K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//blinker
+ 84K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pydispatch
+ 84K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//streamlit-1.24.1.dist-info
+ 84K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//yarg
+ 84K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//zict
+ 88K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AddressBook
+ 88K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//VideoToolbox
+ 88K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//argon2
+ 88K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//black-22.6.0.dist-info
+ 88K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyviz_comms
+ 88K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tqdm-4.64.1.dist-info
+ 88K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tzdata-2023.3.dist-info
+ 92K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Contacts
+ 92K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//docutils-0.18.1.dist-info
+ 92K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_api_python_client-2.97.0.dist-info
+ 92K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_auth_oauthlib
+ 92K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ml_dtypes-0.2.0.dist-info
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AuthenticationServices
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CFNetwork
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Photos
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//gast
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//libarchive
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pluggy
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pygame-2.1.2.dist-info
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//queuelib
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sip-6.6.2.dist-info
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torchmetrics-1.1.0.dist-info
+ 96K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tzlocal
+100K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Babel-2.9.1.dist-info
+100K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//clyent
+100K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cvxpy-1.3.1.dist-info
+100K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//gensim-4.1.2.dist-info
+100K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mediapipe-0.8.9.1.dist-info
+100K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pylint-2.14.5.dist-info
+100K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pytz-2022.1.dist-info
+100K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//terminado
+104K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Sphinx-5.0.2.dist-info
+104K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab-3.4.4.dist-info
+104K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nltk-3.7.dist-info
+104K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyct
+104K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tb_nightly-2.15.0a20230828.dist-info
+104K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorboard-2.11.2.dist-info
+108K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ImageCaptureCore
+108K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PassKit
+108K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pipreqs
+112K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreMediaIO
+112K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cssselect
+112K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//defusedxml
+112K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jellyfish
+112K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pip-23.3.1.dist-info
+112K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//platformdirs
+112K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//snappy
+112K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//toml
+116K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CloudKit
+116K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//DiscRecording
+116K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//past
+116K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//scikit_image-0.19.2.dist-info
+120K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//NetworkExtension
+120K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//itsdangerous
+120K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//keras_nightly-2.15.0.dev2023082807.dist-info
+120K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//w3lib
+124K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreData
+124K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Vision
+124K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//keras-2.11.0.dist-info
+124K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pigar-2.1.1.dist-info
+124K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//send2trash
+124K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//trio_websocket
+128K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//GameController
+128K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//importlib_metadata
+128K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//qstylizer
+132K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreMIDI
+132K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//GameCenter
+132K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MetricKit
+132K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lazy_object_proxy
+132K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mkl
+136K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ShazamKit
+136K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cloudpickle
+136K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//frozenlist
+136K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//osqppurepy
+140K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//IntentsUI
+140K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Network
+140K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ScreenCaptureKit
+140K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//holoviews-1.15.0.dist-info
+140K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//networkx-2.8.4.dist-info
+140K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//scikit_learn-1.3.2.dist-info
+140K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tenacity
+144K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SystemConfiguration
+144K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//asgiref
+144K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//smmap
+148K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//intervaltree
+148K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jmespath
+148K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mypy-0.991.dist-info
+152K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MapKit
+152K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cachecontrol
+152K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//incremental
+152K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numba-0.55.1.dist-info
+156K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreMotion
+156K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_verify
+156K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//multidict
+160K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wsproto
+164K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//HealthKit
+164K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ModelIO
+164K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Twisted-22.2.0.dist-info
+164K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//fancyimpute
+164K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lightning_utilities
+164K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//matplotlib-3.5.2.dist-info
+164K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//partd
+168K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//botocore-1.27.28.dist-info
+168K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//json5
+168K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter_console
+168K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//olefile
+168K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//opencv_contrib_python-4.6.0.66.dist-info
+168K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//opencv_python-4.6.0.66.dist-info
+168K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//opencv_python_headless-4.6.0.66.dist-info
+176K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//kiwisolver
+176K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tf_utils
+180K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//branca
+180K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//panel-0.13.1.dist-info
+180K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//validators
+180K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wrapt
+184K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//GameKit
+184K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyObjCTools
+184K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//fastjsonschema
+184K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numpy-1.24.4.dist-info
+184K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//requests_oauthlib
+184K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tbb
+188K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_pack
+192K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PrintCore
+192K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SpriteKit
+196K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ipython_genutils
+196K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jwt
+196K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mock
+196K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//notebook-6.4.12.dist-info
+196K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pathspec
+196K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//testpath
+200K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cookiecutter
+200K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google_crc32c
+204K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyarrow-12.0.1.dist-info
+204K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//scipy-1.9.1-py3.9.egg-info
+208K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//HIServices
+208K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyttsx3
+208K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//textdistance
+212K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//astropy-5.1.dist-info
+216K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//FileProvider
+216K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//SceneKit
+216K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lz4
+216K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rtree
+220K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//flatbuffers
+224K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//packaging
+224K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rsa
+228K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_env
+228K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nbclassic
+232K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//MetalPerformanceShaders
+232K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//WebKit
+232K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//charset_normalizer
+232K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sortedcontainers
+236K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//libpasteurize
+236K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//statsmodels-0.13.2.dist-info
+236K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wheel
+244K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//automat
+244K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//msgpack
+244K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//yarl
+248K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//fonttools-4.25.0-py3.9.egg-info
+248K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//isodate
+252K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_content_trust
+252K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//extension
+252K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pandas-1.4.4-py3.9.egg-info
+252K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//soupsieve
+264K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreServices
+264K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bokeh-2.4.3.dist-info
+264K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//keyring
+264K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pkginfo
+264K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pydocstyle
+268K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreText
+268K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jedi-0.18.1.dist-info
+280K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//blib2to3
+280K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//websocket
+284K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreMedia
+284K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//libdispatch
+292K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//libfuturize
+304K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//proto
+308K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//certifi
+312K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//text_unidecode
+320K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//httplib2
+320K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sqlparse
+320K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sympy-1.10.1.dist-info
+320K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tldextract
+320K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tomlkit
+332K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ply
+332K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tinycss
+340K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyrsistent
+344K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Security
+352K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//smart_open
+368K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreAudio
+372K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Intents
+380K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pexpect
+380K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//share
+388K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//attr
+392K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//prometheus_client
+404K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//hyperlink
+404K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//requests
+408K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//OpenSSL
+408K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//h11
+416K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//greenlet
+416K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pylsp
+420K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numpydoc
+424K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//gitdb
+424K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nbclient
+428K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Metal
+432K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//diff_match_patch
+432K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pasta
+440K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numexpr
+440K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//watchdog
+456K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//wcwidth
+464K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//gmpy2
+468K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab_widgets
+472K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//arrow
+472K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tqdm
+480K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab_server
+484K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Django-3.0.1.dist-info
+484K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//flake8
+484K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//hamcrest
+488K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//idna
+488K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//spyder-5.3.3.dist-info
+496K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//opt_einsum
+500K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter_core
+500K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//spyder_kernels
+512K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//msrest
+516K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Levenshtein
+528K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//param
+532K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//toolz
+536K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//_plotly_utils
+544K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//datashape
+552K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//aeosa
+560K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//dill
+560K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//s3transfer
+572K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tpot
+584K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sklearnex
+596K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//CoreFoundation
+596K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//functorch
+600K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xlrd
+608K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bottleneck
+608K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nbformat
+612K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bitarray
+612K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//black
+612K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//yapf
+616K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//parso
+620K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AVFoundation
+628K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//markdown
+636K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mkl_fft
+640K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//flask
+640K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//repo_cli
+684K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cffi
+684K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//click
+684K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//yaml
+688K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//markdown_it
+716K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//dateutil
+716K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyflakes
+724K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyparsing
+748K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bkcharts
+748K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//py
+780K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//folium
+788K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyasn1
+792K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//osqp
+808K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//deap
+820K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ipywidgets
+828K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//absl
+828K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//urllib3
+832K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jsonschema
+836K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//brotli
+856K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//isort
+884K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//__pycache__
+916K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//yapftests
+928K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jinja2
+940K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//qtconsole
+944K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//anyio
+944K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bs4
+952K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//traitlets
+956K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ipykernel
+972K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//firebase_admin
+976K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pympler
+992K	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//binstar_client
+1.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//fsspec
+1.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter_client
+1.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Foundation
+1.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//intake
+1.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mkl_random
+1.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nose
+1.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pycparser
+1.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//qtpy
+1.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ruamel_yaml
+1.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bleach
+1.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//git
+1.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//llvmlite
+1.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//oauthlib
+1.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorflow-2.11.0.dist-info
+1.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tifffile
+1.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xlsxwriter
+1.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//boto3
+1.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mpl_toolkits
+1.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//onedal
+1.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pkg_resources
+1.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//regex
+1.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//snowballstemmer
+1.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tf_nightly-2.15.0.dev20230828.dist-info
+1.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//caer
+1.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cytoolz
+1.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//paramiko
+1.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//patsy
+1.5M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//chardet
+1.5M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nacl
+1.5M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torch-2.0.1.dist-info
+1.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//psutil
+1.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyasn1_modules
+1.7M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rope
+1.8M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//werkzeug
+1.9M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//ml_dtypes
+1.9M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//qtawesome
+1.9M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//zope
+2.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//AppKit
+2.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//_pytest
+2.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//astroid
+2.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//joblib
+2.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nbconvert
+2.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rich
+2.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//aiohttp
+2.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//plotly-5.9.0.dist-info
+2.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//qdarkstyle
+2.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//scrapy
+2.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//streamlit_folium
+2.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//unidecode
+2.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_build
+2.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sphinxcontrib
+2.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torchgen
+2.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Quartz
+2.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//erfa
+2.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyter_server
+2.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//seaborn
+2.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//zmq
+2.5M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PIL
+2.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda_package_handling
+2.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//objc
+2.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pytz
+2.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tzdata
+2.7M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xlwings
+2.8M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sipbuild
+2.8M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//trio
+2.9M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PySimpleGUI
+2.9M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//prompt_toolkit
+3.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//future
+3.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//openpyxl
+3.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//colorcet
+3.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tornado
+3.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorboard_plugin_wit
+3.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pylint
+3.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//widgetsnbextension
+3.5M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//anaconda_project
+3.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//docutils
+3.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorflow_estimator
+3.7M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mpmath
+3.9M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//third_party
+4.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorflow_io_gcs_filesystem
+4.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cryptography
+4.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//hvplot
+4.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//setuptools
+4.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//conda
+4.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lxml
+4.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//h5py
+5.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//distributed
+5.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//imageio
+5.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//IPython
+5.7M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cvxpy
+6.0M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torchmetrics
+6.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//navigator_updater
+6.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//altair
+6.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//lightgbm
+6.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//azure
+6.5M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//fontTools
+6.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//imagecodecs
+7.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab_plotly
+7.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tables
+7.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torchvision
+7.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xgboost
+7.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//xarray
+7.4M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mypyc
+7.8M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pygments
+8.2M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//rapidfuzz
+8.3M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pywt
+8.9M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//dask
+9.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//Cython
+9.1M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pydeck
+9.6M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//google
+9.9M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jedi
+ 11M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//anaconda_navigator
+ 11M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//nltk
+ 11M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorboard
+ 12M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//daal4py
+ 12M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//networkx
+ 12M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sqlalchemy
+ 13M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//debugpy
+ 13M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pip
+ 13M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorboard_data_server
+ 13M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torchaudio
+ 14M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mypy
+ 15M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sphinx
+ 18M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//jupyterlab
+ 19M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//holoviews
+ 20M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numba
+ 20M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//selenium
+ 22M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//matplotlib
+ 25M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//datashader
+ 25M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pygame
+ 26M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//keras
+ 27M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//twisted
+ 28M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//PyQt5
+ 28M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//streamlit
+ 29M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//babel
+ 30M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//skimage
+ 31M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//grpc
+ 31M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//notebook
+ 32M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//django
+ 38M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//astropy
+ 41M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//gensim
+ 42M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sklearn
+ 43M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//speech_recognition
+ 44M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//statsmodels
+ 47M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//spyder
+ 55M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pandas
+ 57M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//panel
+ 59M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pigar
+ 60M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//mediapipe
+ 64M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//sympy
+ 67M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//botocore
+ 67M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//scs
+ 72M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cvxopt
+ 75M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//clang
+ 80M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//scipy
+ 84M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//bokeh
+ 85M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//googleapiclient
+ 90M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//pyarrow
+103M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//numpy
+124M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//cv2
+134M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//plotly
+521M	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//torch
+1.1G	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages//tensorflow
+4.2G	/Users/nguyenlequang/opt/anaconda3/lib/python3.9/site-packages/
