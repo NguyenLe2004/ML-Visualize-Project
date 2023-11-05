@@ -1,2 +1,5 @@
-scikit-learn[linear_model, tree, ensemble, svm]
+sklearn.linear_model
+sklearn.neighbors
+sklearn.tree
+sklearn.ensemble
 Django==3.0.1
