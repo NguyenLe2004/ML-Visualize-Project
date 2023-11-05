@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 from sklearn.svm import SVR
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 def svr (X,y , kernel : str, c : str , epsilon : str,degree) ->list:

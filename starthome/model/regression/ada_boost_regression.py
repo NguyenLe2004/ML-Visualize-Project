@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 from sklearn.ensemble import AdaBoostRegressor
 from sklearn.tree import DecisionTreeRegressor
 def ada_boost_regress(X,y,n_estimators,learning_rate ,max_depth  ,min_samples_split , min_samples_leaf ,max_features) :
