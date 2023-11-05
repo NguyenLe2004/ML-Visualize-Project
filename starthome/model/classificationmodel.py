@@ -8,8 +8,7 @@ from .classification.naive_nayes import gaussnb
 from .classification.decision_tree_classification import decision_tree_classify
 from .classification.random_forest_classification import random_forest_classify
 from .classification.gradient_boost_classification import gradient_boost_classify
-from .classification.ada_boost_classification import ada_boost_classify
-from .classification.xg_boost_classification import xgb_classify
+from .classification.ada_boost_classification import ada_boost_classif
 from .classification.light_gbm_classification import ligh_gbm_classify
 def train_classify_model(respond : dict):
     type_model = respond.get('type')
@@ -39,8 +38,6 @@ def train_classify_model(respond : dict):
         model = gradient_boost_classify(data,Class,respond.get('n_estimators'),respond.get('learning_rate'),respond.get('max_depth'),respond.get('min_samples_split'),respond.get('min_samples_leaf'),respond.get('max_feature'))
     elif type_model == "8":
         model = ada_boost_classify(data,Class,respond.get('n_estimators'),respond.get('learning_rate'), respond.get('max_depth'),respond.get('min_samples_split'),respond.get('min_samples_leaf'),respond.get('max_feature'))
-    elif type_model == "9":
-        model = xgb_classify(data,Class,respond.get('max_depth'),respond.get("min_child_weight"),respond.get("lambda"),respond.get("alpha"))
     else :
         model = ligh_gbm_classify(data,Class,respond.get("n_estimators"),respond.get("max_depth"),respond.get("min_child_samples"),respond.get("num_leaves"),respond.get("reg_lambda"),respond.get("reg_alpha"))
     x,y = np.meshgrid(np.arange(0,601),np.arange(0,501))

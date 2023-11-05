@@ -9,7 +9,6 @@ from .regression.decision_tree_regression import decision_tree_regress
 from .regression.random_forest_regression import random_forest_regress
 from .regression.gradient_boost_regression import gradient_boost_regress
 from .regression.ada_boost_regression import ada_boost_regress
-from .regression.XGBoost_regression import xgboost_regress
 from .regression.light_gbm_regression import ligh_gbm_regress
 from sklearn.metrics import r2_score,mean_absolute_error,mean_squared_error
 warnings.filterwarnings("ignore")
@@ -48,8 +47,6 @@ def train_regressor_model(respond:dict) ->list :
         model = gradient_boost_regress(X,y,int(respond.get("n_estimators")),float(respond.get("learning_rate")),respond.get('max_depth'),int(respond.get("min_samples_split")),int(respond.get("min_samples_leaf")),respond.get("max_features"))
     elif type_model == "7":
         model = ada_boost_regress(X,y,int(respond.get("n_estimators")),float(respond.get("learning_rate")),respond.get('max_depth'),int(respond.get("min_samples_split")),int(respond.get("min_samples_leaf")),respond.get("max_features"))
-    elif type_model == "8":
-        model = xgboost_regress(X,y,int(respond.get('max_depth')),int(respond.get("min_child_weight")),float(respond.get("lambda")),float(respond.get("alpha")))
     else :
         model = ligh_gbm_regress(X,y,int(respond.get("n_estimators")),int(respond.get("max_depth")),int(respond.get("min_child_samples")),int(respond.get("num_leaves")),float(respond.get("reg_lambda")),float(respond.get("reg_alpha")))
     prediction = model.predict(X_grid).reshape(-1,1)
